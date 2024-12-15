@@ -1,0 +1,54 @@
+.weight-calculator-container {
+    padding: 20px;
+    font-family: Arial;
+  }
+  
+  .weight-label,
+  .height-label {
+    margin-bottom: 30px;
+  }
+  
+  .weight-input,
+  .height-input {
+    width: 40%;
+    margin-bottom: 10px;
+  }
+  
+  .calculate-button {
+    padding: 20px 30px;
+    margin-top: 10px;
+    background-color: #97dece;
+    color: rgb(76, 42, 163);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover{
+    background-color: #b1e89e;
+  }
+  .result-container {
+    margin-top: 20px;
+    
+  }
+  
+  .result-container h3 {
+    margin-bottom: 10px;
+  }
+  
+  .calcPeso{
+    margin-bottom: 10%;
+  }
+
+  .altura{
+    margin-bottom: 40px;
+  }
+
+  .boldText {
+    font-weight: bold;
+  }
+  
+  
